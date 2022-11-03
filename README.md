@@ -1,2 +1,2 @@
 # Readme
-This is a simple file with typo.
+This is a simple file with a typo.
